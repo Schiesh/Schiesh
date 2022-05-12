@@ -1,4 +1,4 @@
 - Hi, I’m @Schiesh, but my real name is Russell Schiesser.
-- I’m interested in back end development and machine learning.
-- I’m currently learning Python, Javascript, HTML5, and CSS.
+- I’m interested in full stack development and machine learning.
+- I’m currently learning how to use ExpressJS, ReactJS, and MongoDB.
 - How to reach me, russell.schiesser@gmail.com
